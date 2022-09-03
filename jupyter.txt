@@ -1,0 +1,2 @@
+1.	pip install notebook
+2.	jupyter notebook
